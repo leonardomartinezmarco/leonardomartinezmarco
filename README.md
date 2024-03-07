@@ -1,8 +1,8 @@
 ### <title>Olá Mundo!<title>
 
-Eu sou o Leonardo, Analista de Qualidade de Software com 5 anos de atuação na área. Minha dedicação na garantia da qualidade e extensa experiência em testes manuais e automatizados, destaco minhas habilidades:
+Sou o Leonardo, Analista de Qualidade de Software com 5 anos de atuação na área. Minha dedicação na garantia da qualidade está em testes manuais e automatizados, destaco minhas habilidades:
 
-📈  Testes Funcionais: Garantia da qualidade através de testes rigorosos, Identifica, relata e rastreia bugs para melhorar a experiência do usuário, Colaboração com equipes de desenvolvimento para entender requisitos e funcionalidades, Elaboração e planejamento de estratégias e planos de testes, e Contribuição para a criação de documentações técnicas.
+📈  Testes Funcionais: Criação e execução de casos de testes, análise de requisitos e regras de negócio, testes exploratórios, testes manuais, testes de regressão, testes de API, reporte de bugs e documentação de projetos, consultas em banco de dados, versionamento de aplicações
 
 🌐 Automação Web: Cypress.io, Robot Framework, Java, Selenium, JUnit,
 
