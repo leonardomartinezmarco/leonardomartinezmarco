@@ -2,7 +2,7 @@
 
 Eu sou o Leonardo, Analista de Qualidade de Software com 5 anos de atuação na área. Minha dedicação na garantia da qualidade e extensa experiência em testes manuais e automatizados, destaco minhas habilidades:
 
-📈  Testes Funcionais: Garantia da qualidade de software através de testes rigorosos, Identifica, relata e rastreia bugs para melhorar a experiência do usuário, Colaboração com equipes de desenvolvimento para entender requisitos e funcionalidades, Elaboração e planejamento de estratégias e planos de testes, e Contribuição para a criação de documentação técnica.
+📈  Testes Funcionais: Garantia da qualidade através de testes rigorosos, Identifica, relata e rastreia bugs para melhorar a experiência do usuário, Colaboração com equipes de desenvolvimento para entender requisitos e funcionalidades, Elaboração e planejamento de estratégias e planos de testes, e Contribuição para a criação de documentação técnica.
 
 🌐 Automação Web: Cypress.io, Robot Framework, Java, Selenium, JUnit,
 
@@ -28,7 +28,6 @@ Neste perfil você encontrará meus projetos pessoais, incluindo projetos de aut
   <img align="center" alt="Lele-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Lele-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"">
   <img align="center" alt="Lele-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
-  <img align="center" alt="Lele-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
   <img align="center" alt="Lele-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   <img align="center" alt="Lele-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
 </div>
