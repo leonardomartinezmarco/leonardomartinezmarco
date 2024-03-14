@@ -23,20 +23,24 @@ Sou o Leonardo, Analista de Qualidade de Software com 5 anos de atuação na ár
 Neste perfil você encontrará meus projetos pessoais, incluindo projetos de automação. Vamos juntos?! ✨
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lele-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lele-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
-  <img align="center" alt="Lele-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Lele-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"">
-  <img align="center" alt="Lele-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
-  <img align="center" alt="Lele-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="Lele-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+  <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cypress Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
+  <img align="center" alt="Java Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Selenium Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"">
+  <img align="center" alt="Java Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
+  <img align="center" alt="Postman Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img align="center" alt="Git Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Vscode Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Jira Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">    
+
 </div>
 
 ## 
-
+Contatos:
 <div> 
+  <a href="https://wa.me/5511963408074)" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/leonardo-martinez-marco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:leonardo.martinezmarco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+  <a href="mailto:leonardo.martinezmarco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
 <picture>
