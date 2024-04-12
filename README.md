@@ -1,4 +1,4 @@
-### <title>Olá Mundo!<title>
+### <title>Hello World!<title>
 
 Sou o Leonardo, Analista de Qualidade de Software com 5 anos de atuação na área. Minha dedicação na garantia da qualidade está em testes manuais e automatizados, destaco minhas habilidades:
 
